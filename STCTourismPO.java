@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 public class STCTourismPO {
 	WebElement username;
+
 	WebElement password;
 	WebElement submit;
 	WebElement customizedTours;
